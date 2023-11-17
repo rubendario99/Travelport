@@ -1,0 +1,36 @@
+C:\Users\ruchi\source\repos\TravelportAzureClassLibrary\bin\Debug\net6.0\TravelportAzureClassLibrary.deps.json
+C:\Users\ruchi\source\repos\TravelportAzureClassLibrary\bin\Debug\net6.0\TravelportAzureClassLibrary.dll
+C:\Users\ruchi\source\repos\TravelportAzureClassLibrary\bin\Debug\net6.0\TravelportAzureClassLibrary.pdb
+C:\Users\ruchi\source\repos\TravelportAzureClassLibrary\obj\Debug\net6.0\TravelportAzureClassLibrary.csproj.AssemblyReference.cache
+C:\Users\ruchi\source\repos\TravelportAzureClassLibrary\obj\Debug\net6.0\TravelportAzureClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruchi\source\repos\TravelportAzureClassLibrary\obj\Debug\net6.0\TravelportAzureClassLibrary.AssemblyInfoInputs.cache
+C:\Users\ruchi\source\repos\TravelportAzureClassLibrary\obj\Debug\net6.0\TravelportAzureClassLibrary.AssemblyInfo.cs
+C:\Users\ruchi\source\repos\TravelportAzureClassLibrary\obj\Debug\net6.0\TravelportAzureClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ruchi\source\repos\TravelportAzureClassLibrary\obj\Debug\net6.0\TravelportAzureClassLibrary.dll
+C:\Users\ruchi\source\repos\TravelportAzureClassLibrary\obj\Debug\net6.0\refint\TravelportAzureClassLibrary.dll
+C:\Users\ruchi\source\repos\TravelportAzureClassLibrary\obj\Debug\net6.0\TravelportAzureClassLibrary.pdb
+C:\Users\ruchi\source\repos\TravelportAzureClassLibrary\obj\Debug\net6.0\ref\TravelportAzureClassLibrary.dll
+C:\Users\ruchi\Desktop\travelport final documented\TravelportAzureClassLibrary\bin\Debug\net6.0\TravelportAzureClassLibrary.deps.json
+C:\Users\ruchi\Desktop\travelport final documented\TravelportAzureClassLibrary\bin\Debug\net6.0\TravelportAzureClassLibrary.dll
+C:\Users\ruchi\Desktop\travelport final documented\TravelportAzureClassLibrary\bin\Debug\net6.0\TravelportAzureClassLibrary.pdb
+C:\Users\ruchi\Desktop\travelport final documented\TravelportAzureClassLibrary\obj\Debug\net6.0\TravelportAzureClassLibrary.csproj.AssemblyReference.cache
+C:\Users\ruchi\Desktop\travelport final documented\TravelportAzureClassLibrary\obj\Debug\net6.0\TravelportAzureClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruchi\Desktop\travelport final documented\TravelportAzureClassLibrary\obj\Debug\net6.0\TravelportAzureClassLibrary.AssemblyInfoInputs.cache
+C:\Users\ruchi\Desktop\travelport final documented\TravelportAzureClassLibrary\obj\Debug\net6.0\TravelportAzureClassLibrary.AssemblyInfo.cs
+C:\Users\ruchi\Desktop\travelport final documented\TravelportAzureClassLibrary\obj\Debug\net6.0\TravelportAzureClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ruchi\Desktop\travelport final documented\TravelportAzureClassLibrary\obj\Debug\net6.0\TravelportAzureClassLibrary.dll
+C:\Users\ruchi\Desktop\travelport final documented\TravelportAzureClassLibrary\obj\Debug\net6.0\refint\TravelportAzureClassLibrary.dll
+C:\Users\ruchi\Desktop\travelport final documented\TravelportAzureClassLibrary\obj\Debug\net6.0\TravelportAzureClassLibrary.pdb
+C:\Users\ruchi\Desktop\travelport final documented\TravelportAzureClassLibrary\obj\Debug\net6.0\ref\TravelportAzureClassLibrary.dll
+C:\Users\ruchi\Desktop\Travelport\TravelportAzureClassLibrary\bin\Debug\net6.0\TravelportAzureClassLibrary.deps.json
+C:\Users\ruchi\Desktop\Travelport\TravelportAzureClassLibrary\bin\Debug\net6.0\TravelportAzureClassLibrary.dll
+C:\Users\ruchi\Desktop\Travelport\TravelportAzureClassLibrary\bin\Debug\net6.0\TravelportAzureClassLibrary.pdb
+C:\Users\ruchi\Desktop\Travelport\TravelportAzureClassLibrary\obj\Debug\net6.0\TravelportAzureClassLibrary.csproj.AssemblyReference.cache
+C:\Users\ruchi\Desktop\Travelport\TravelportAzureClassLibrary\obj\Debug\net6.0\TravelportAzureClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruchi\Desktop\Travelport\TravelportAzureClassLibrary\obj\Debug\net6.0\TravelportAzureClassLibrary.AssemblyInfoInputs.cache
+C:\Users\ruchi\Desktop\Travelport\TravelportAzureClassLibrary\obj\Debug\net6.0\TravelportAzureClassLibrary.AssemblyInfo.cs
+C:\Users\ruchi\Desktop\Travelport\TravelportAzureClassLibrary\obj\Debug\net6.0\TravelportAzureClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ruchi\Desktop\Travelport\TravelportAzureClassLibrary\obj\Debug\net6.0\TravelportAzureClassLibrary.dll
+C:\Users\ruchi\Desktop\Travelport\TravelportAzureClassLibrary\obj\Debug\net6.0\refint\TravelportAzureClassLibrary.dll
+C:\Users\ruchi\Desktop\Travelport\TravelportAzureClassLibrary\obj\Debug\net6.0\TravelportAzureClassLibrary.pdb
+C:\Users\ruchi\Desktop\Travelport\TravelportAzureClassLibrary\obj\Debug\net6.0\ref\TravelportAzureClassLibrary.dll
