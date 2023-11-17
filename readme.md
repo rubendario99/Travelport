@@ -21,9 +21,11 @@ To run these projects, you will need to:
 1. Have .NET 6.0 SDK installed.
 2. Have access to an Azure subscription and Azure Storage Account.
 3. Update the `appsettings.json` with your Azure Table Storage connection string.
-    AzureTableStorage: Your Azure Table Storage connection string.
-    JsonFilePath: Path to your JSON file containing the sample data to import.
-    LoadSampleData: A boolean flag to determine if the sample data should be loaded on startup.
+    - AzureTableStorage: Your Azure Table Storage connection string.
+    - JsonFilePath: Path to your JSON file containing the sample data to import.
+    - LoadSampleData: A boolean flag to determine if the sample data should be loaded on startup.
+
+Please notice that the confidential information should not be shared in the appsettings.json like it is right now.
 
 ### Running the Console Application
 
@@ -31,6 +33,7 @@ Navigate to the directory containing the `ConsoleAppAzureTables.csproj` and exec
 
 ```bash
 dotnet run
+```
 
 Or you can open the TravelportAzureClassLibrary.sln and work from VS
 
