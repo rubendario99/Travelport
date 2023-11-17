@@ -27,6 +27,16 @@ To run these projects, you will need to:
 
 Please notice that the confidential information should not be shared in the `appsettings.json` like it is right now.
 
+## Installation and Usage
+
+To clone and use this project, follow these steps:
+
+1. Open your terminal or command prompt.
+2. Clone the repository using:
+   ```bash
+   git clone https://github.com/[rubendario99]/[Travelport].git
+
+
 ### Running the Console Application
 
 Navigate to the directory containing the `ConsoleAppAzureTables.csproj` and execute:
