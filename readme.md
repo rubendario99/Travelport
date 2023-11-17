@@ -25,7 +25,7 @@ To run these projects, you will need to:
     - JsonFilePath: Path to your JSON file containing the sample data to import.
     - LoadSampleData: A boolean flag to determine if the sample data should be loaded on startup.
 
-Please notice that the confidential information should not be shared in the appsettings.json like it is right now.
+Please notice that the confidential information should not be shared in the `appsettings.json` like it is right now.
 
 ### Running the Console Application
 
@@ -35,5 +35,4 @@ Navigate to the directory containing the `ConsoleAppAzureTables.csproj` and exec
 dotnet run
 ```
 
-Or you can open the TravelportAzureClassLibrary.sln and work from VS
-
+Or you can open the `TravelportAzureClassLibrary.sln` and work from VS
